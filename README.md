@@ -1,4 +1,4 @@
-## Hola, mi nombre es David y soy un estudiante de la carrera Ingenieria en Computacion
+## Hola, mi nombre es David 
 
 ## Actualmente aprendiendo:
 - Bash
