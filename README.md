@@ -1,6 +1,6 @@
 ## Hola, mi nombre es David 
 
-## Actualmente aprendiendo:
+### Actualmente aprendiendo:
 - Bash
 - Linux
 - Git
