@@ -1,6 +1,11 @@
 ## Hola, mi nombre es David y soy un estudiante de la carrera Ingenieria en Computacion
 
 ## Actualmente aprendiendo:
+- Bash
+- Linux
+- Git
+
+### Herramientas y Lenguajes
 <p align="left">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
